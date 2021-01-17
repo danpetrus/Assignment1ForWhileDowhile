@@ -1,0 +1,13 @@
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\bin\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.exe
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\bin\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.deps.json
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\bin\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.runtimeconfig.json
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\bin\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.runtimeconfig.dev.json
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\bin\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.dll
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\bin\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.pdb
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\obj\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.csprojAssemblyReference.cache
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\obj\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.csproj.CoreCompileInputs.cache
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\obj\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.AssemblyInfoInputs.cache
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\obj\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.AssemblyInfo.cs
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\obj\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.dll
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\obj\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.pdb
+C:\Users\petrusm\source\repos\Assignment1ForWhileDowhile\Assignment1ForWhileDowhile\obj\Debug\netcoreapp3.1\Assignment1ForWhileDowhile.genruntimeconfig.cache
